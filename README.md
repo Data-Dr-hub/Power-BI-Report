@@ -40,10 +40,14 @@ Datatype then chnged from 'TEXT' TO 'WHOLE NUMBER'.
 Power BI automatically connected related tables.
 The order table is the fact table of the model.
 The remaining two dimension tables; Return table and people table are connected to the order table via common columns: 'order ID' and Region respectively.
-[picture of model]
+![](model.png)
 
 ## Data Analysis and Visuals
+![](dashboard.png)
 1. From the dashboard, it is observed that it takes 4 days on average to deliver each product on every order.
-[image]
 2. Total sales made in 2012= 2.26M, 2013=2.68M ,2014=3.41M ,2015=4.30M.
-3. Quite a number of the products made losses
+3. Sales is highest in the Western Europe region with almost 450k dollars.
+
+![](top10.png)
+
+ Tamara Chand is the most valuable costumer by sales.
