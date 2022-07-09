@@ -1,6 +1,6 @@
 # Global Super Store: Sales Analysis for 2016
 
-
+![](data.jpeg)
 
 ## Introduction
 
