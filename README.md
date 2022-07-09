@@ -1,6 +1,7 @@
 # Global Super Store: Sales Analysis for 2016
 
 
+
 ## Introduction
 
 I came across the dataset online and admired how rich the data is as I have been trying to get my hands dirty with a very rich dataset to practice my skills of data cleaning, analysis and visualization.
